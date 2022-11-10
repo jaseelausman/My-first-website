@@ -1,0 +1,153 @@
+body{
+
+
+    font-family: Montserrat;
+}
+#title
+{
+    background-color: #ff4c68;
+    color:#fff;
+    
+}
+
+.container-fluid{
+    padding: 3%;
+}
+.first{
+    font-family: Montserrat-bold;
+    font-size: 50px;
+    font-weight: bolder;
+    letter-spacing: 2;
+}
+.heading{
+    margin-top: 6%;
+}
+
+
+h1{
+    font-size: 3rem;
+    font-weight: 4;
+    font-family: Montserrat-bold;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+.phone{
+    position: relative;
+    left:50px;
+}
+.navbar-brand{
+    font-family: ubunto;
+    font-size: 3rem;
+    font-weight: 3;
+   
+}
+.navbar{
+    padding:0 0 4.5rem;
+}
+.nav-link{
+    padding: 0 18px;
+    font-family: Montserrat-light;
+    font-size: 20px;
+    margin-right: 5%;
+}
+.download-btn{
+    margin:10% 3% 5% 0;
+}
+.phone{
+    margin-left: 3%;
+    width:60%;
+    transform:rotate(25deg)
+}
+#features{
+   padding:7% 14%;
+
+}
+h3{
+    font-size: 5.5 rem;
+    font-family: Montserrat-bold;
+    font-weight: bolder;
+    margin-top: 10px;
+    
+}
+p{
+    color:#8f8f8f;
+}
+
+.icon{
+    padding:50px;
+    margin-bottom: 100px;
+    color:#ef8172;
+}
+.icon:hover{
+    color:#ff4c68;
+}
+.feature-box{
+    text-align: center;
+}
+#testimonials{
+   
+    text-align: center;
+    background-color:#ff4c68 ;
+}
+#press{
+    background-color:#ff4c68 ;
+    text-align: center;
+    width: 2;
+    padding-bottom: 3%;
+}
+.carousel-item{
+    font-family:  Montserrat-bold;
+    color: #fff;
+    letter-spacing: 2;
+}
+h2{
+    font-family: Montserrat-bold;
+    font-size: 3.5 rem;
+    color: #fff;
+    font-weight: bolder;
+    line-height: 2;
+}
+.testimonial-image{
+  border-radius: 100%;
+  width:10%;
+  margin:20px;
+}
+.media{
+    width:15%;
+    margin:20px 20px 50px 20px;
+}
+.carousel-item {
+    padding: 7% 15%;
+}
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+.pricing-item {
+    padding: 3% 5%;
+}
+#cta{
+    background-color:#ff4c68;
+    padding: 5%;
+    text-align:center;
+}
+.last{
+    color: #fff;
+    font-family: Montserrat-bold;
+    font-size: 50px;
+}
+#footer{
+    padding: 3%;
+    padding-top: 5%;
+    text-align: center;
+    background-color: #fff;
+}
+.lastp{
+    margin-top: 5px;
+    font-size:smaller;
+}
+.icons{
+    margin-left: 1%;
+    
+}
